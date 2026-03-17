@@ -1,7 +1,7 @@
 # Hi 👋 I'm Aravindhan
 
 🚀 Student Developer  
-💻 Learning Python, JavaScript & React  
+💻 Learning Python, JavaScript, React JS & FastAPI  
 
 ---
 
